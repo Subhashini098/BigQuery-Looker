@@ -15,4 +15,4 @@ Created temperature_trendsin_selected_countries View using the following query.
 
 ## 3.Average Temperature across the globe for different Periods
 Created a datetime_mean_temp Table using the following query.
-![Screenshot (1082)](https://github.com/Subhashini098/BigQuery-Looker/assets/109629881/31df6b52-e7d7-4a95-9906-d35effbb87c6)
+![Screenshot (1089)](https://github.com/Subhashini098/BigQuery-Looker/assets/109629881/e0813a26-1bee-40ba-a941-3135303b31ab)
