@@ -1,6 +1,6 @@
 # BigQuery-Looker
-Utilized Global Surface Summary of the Day (GSOD) dataset present in BigQuery.The dataset is a collection of daily weather data collected by weather stations worldwide. It includes information such as temperature, precipitation, wind speed, humidity, and atmospheric pressure, among others.
-Used SQL queries to model the data in a desirable format and then connected it to Looker Studio to visualize the data.
+Utilized Global Surface Summary of the Day (GSOD) dataset present in BigQuery Public Dataset. The dataset is a collection of daily weather data collected by weather stations worldwide. It includes information such as temperature, precipitation, wind speed, humidity, and atmospheric pressure, among others.
+Employed SQL queries to format the data as needed, then linked it to Looker Studio for visualization purposes.
 
 Link for the visualization-https://lookerstudio.google.com/reporting/62fc167b-f4aa-4a21-a6de-9db228f90b12
 
